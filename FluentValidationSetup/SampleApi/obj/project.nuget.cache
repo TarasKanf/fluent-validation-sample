@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qDYVDAWuRwd5ncrPJMWK0s+Xb4n7zoCcD4VmN6p487gVq0u7mcUS3H2W6E2Oh4CwYzQEt4PTtAz5A5L7JAkfA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\fluent-validation-setup\\FluentValidationSetup\\SampleApi\\SampleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Newfire\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Newfire\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\Newfire\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\Newfire\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
